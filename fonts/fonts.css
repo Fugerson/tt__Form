@@ -1,0 +1,13 @@
+/* Open Sans regular*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/* Open Sans Semi-bold*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Playfair+Display:wght@400;700&display=swap');/* font-family: 'Playfair Display', serif; */
+@font-face {
+    font-family: 'Post No Bills Jaffna Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Post No Bills Jaffna Bold'), url('./PostNoBillsJaffna/PostNoBillsJaffna-Bold.woff') format('woff');
+    }
+
